@@ -1,6 +1,6 @@
-# CRA template with Sass, ESLint, Stylelint and Prettier, ready for Jest, Flow and VS Code
+# CRA template with Sass, ESLint, Stylelint and Prettier
 
-Custom template for [Create React App](https://create-react-app.dev/) to scaffold a new web app project.
+Custom template for [Create React App](https://create-react-app.dev/) to scaffold a new web app project.\
 
 Ships with recommended style guides for ESLint and Stylelint that allows you to deploy better and more reliable web apps.\
 
