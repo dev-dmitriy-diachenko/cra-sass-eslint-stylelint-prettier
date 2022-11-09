@@ -1,8 +1,8 @@
 # CRA template with Sass, ESLint, Stylelint and Prettier
 
-Custom template for [Create React App](https://create-react-app.dev/) to scaffold a new web app project.\
+Custom template for [Create React App](https://create-react-app.dev/) to scaffold a new web app project.
 
-Ships with recommended style guides for ESLint and Stylelint that allows you to deploy better and more reliable web apps.\
+Ships with recommended style guides for ESLint and Stylelint that allows you to deploy better and more reliable web apps.
 
 Adds `lint` and `fix` scripts to the default Create React App ones - _see [Additional Scripts](#additional-scripts)_.\
 Uses Git hooks to format and attempt to fix ESLint and Stylelint errors before committing to Git.
