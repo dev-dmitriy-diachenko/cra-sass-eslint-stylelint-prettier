@@ -12,7 +12,29 @@
     "value-list-comma-newline-after": null,
 
     "annotation-no-unknown": [true, { "severity": "warning" }],
-    "at-rule-no-unknown": true,
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": [
+          "use",
+          "forward",
+          "import",
+          "mixin",
+          "include",
+          "function",
+          "extend",
+          "error",
+          "warn",
+          "debug",
+          "at-root",
+          "if",
+          "else",
+          "each",
+          "for",
+          "while"
+        ]
+      }
+    ],
     "function-no-unknown": true,
     "media-feature-name-no-unknown": true,
     "no-unknown-animations": true,
